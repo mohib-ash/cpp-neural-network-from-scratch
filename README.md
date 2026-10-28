@@ -244,7 +244,7 @@ Coming back to C++ after spending so much time in higher-level ecosystems was a 
 
 To be transparent, I didn't build everything in isolation. 
 
-I had to revisit some old C++ functions, refresh my understanding of the partial derivatives and chain rule behind backpropagation, refer back to my deep learning notes, look things up on Google, and use AI assistance for some code optimization ideas.
+I had to revisit some old C++ functions, refresh my understanding of the partial derivatives, Took help from youtube videos and chain rule behind backpropagation, refer back to my deep learning notes, look things up on Google, and use AI assistance for some code optimization ideas.
 
 For me, that's part of the learning process. You don't have to know everything beforehand or figure out every detail alone. What matters is being willing to revisit the fundamentals, ask questions, verify what you learn, and understand the code you're building.
 
