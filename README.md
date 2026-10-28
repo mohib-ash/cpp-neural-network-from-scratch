@@ -240,17 +240,6 @@ Coming back to C++ after spending so much time in higher-level ecosystems was a 
 
 ---
 
-## 🔮 Future Improvements
-
-Potential future roadmap items:
-
-- [ ] Additional activation functions (e.g., LeakyReLU, Tanh) and Loss Functions (Cross-Entropy).
-- [ ] Improved weight initialization algorithms (He / Xavier initialization).
-- [ ] Systematic numerical gradient checks.
-- [ ] Dynamic layer generation and configurable network topology.
-- [ ] Benchmark suite for execution speed and memory footprints.
-
----
 
 ## 📝 Closing Note
 
