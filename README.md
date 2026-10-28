@@ -242,9 +242,11 @@ Coming back to C++ after spending so much time in higher-level ecosystems was a 
 
 ## Acknowledgements
 
-This project was built as a learning exercise, with help along the way. I revisited my old C++ knowledge, reviewed my deep learning notes, researched concepts through Google, and used AI assistance for exploring and code optimization ideas.
+To be transparent, I didn't build everything in isolation. 
 
-The implementation, experimentation, and learning process were my own, but I didn't do it entirely alone. I'm a believer in learning from available resources and being transparent about it.
+I had to revisit some old C++ functions, refresh my understanding of the partial derivatives and chain rule behind backpropagation, refer back to my deep learning notes, look things up on Google, and use AI assistance for some code optimization ideas.
+
+For me, that's part of the learning process. You don't have to know everything beforehand or figure out every detail alone. What matters is being willing to revisit the fundamentals, ask questions, verify what you learn, and understand the code you're building.
 
 ---
 
