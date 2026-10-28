@@ -240,6 +240,13 @@ Coming back to C++ after spending so much time in higher-level ecosystems was a 
 
 ---
 
+## Acknowledgements
+
+his project was built as a learning exercise, with help along the way. I revisited my old C++ knowledge, reviewed my deep learning notes, researched concepts through Google, and used AI assistance for exploring and code optimization ideas.
+
+The implementation, experimentation, and learning process were my own, but I didn't do it entirely alone. I'm a believer in learning from available resources and being transparent about it.
+
+---
 
 ## 📝 Closing Note
 
